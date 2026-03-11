@@ -1,0 +1,1 @@
+Bu proje, modern bir bireyin günlük işlerini, notlarını ve randevularını organize etmesi için geliştirilmiş kapsamlı bir Windows Forms masaüstü uygulamasıdır. Kağıt kalem kullanımını azaltarak dijital ortamda hızlı ve güvenilir bir not alma deneyimi sunmayı hedefler.
